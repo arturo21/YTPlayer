@@ -14,7 +14,5 @@ It can be handled using a shortcode to invoke the YT video.
 
 ## Or with the Video ID and more parameters like that:
 ```html
-<pre>
 [videoyoutube idvideo="QLd8Bxzyh1k" autoplay="1" loop="1" controls="0" mute="1"]
-</pre>
 ```
